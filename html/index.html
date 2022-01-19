@@ -54,38 +54,12 @@
           </label>
 		  <a><center><img src="https://images.emojiterra.com/mozilla/512px/1f50a.png" width="25"><b> Appuyez sur ESPACE afin de couper le son de creation.<b></center></a>
           <button id="submit" type="submit" class="button"><img src="https://i.goopics.net/5d0nsm.png" width="50"> <H1>Prendre l'avion</H1></button>
-		  <audio id="leson" src="son/son.mp3" autoplay="true" hidden="true" loop="true"/>
 		  </form>
         </div>
       </div>
     </div>
   </div>
 </div>
-
-    <script>
-
-    var play = false;
-    var myAudio = document.getElementById("leson");
-    
-    myAudio.volume = 0.1;
-
-    function onKeyDown(event) {
-            switch (event.keyCode) {
-                case 32: //SpaceBar                    
-                    if (play) {
-                        myAudio.pause();
-                        play = false;
-                    } else {
-                        myAudio.play();
-                        play = true;
-                    }
-                    break;
-            }
-      return false;
-    }
-
-    window.addEventListener("keydown", onKeyDown, false);
-    </script>
 
     <script src="js/jquery-3.5.0.min.js"></script>
     <script src="js/popper.min.js"></script>
