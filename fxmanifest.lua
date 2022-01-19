@@ -30,8 +30,6 @@ files {
 	'html/font/Flaticon.woff',
 	'html/font/Flaticon.woff2',
 	'html/font/Flaticond41d.eot',
-	'html/img/background.jpg',
-	'html/img/logo.png',
 	'html/js/bootstrap.min.js',
 	'html/js/imagesloaded.pkgd.min.js',
 	'html/js/jquery-3.5.0.min.js',
