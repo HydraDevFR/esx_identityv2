@@ -54,8 +54,7 @@ files {
 	'html/webfonts/fa-solid-900.ttf',
 	'html/webfonts/fa-solid-900.woff',
 	'html/webfonts/fa-solid-900.woff2',
-	'html/webfonts/fa-solid-900d41d.eot',
-	'html/son/son.mp3'
+	'html/webfonts/fa-solid-900d41d.eot'
 }
 
 dependency 'es_extended'
