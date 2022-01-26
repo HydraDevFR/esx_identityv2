@@ -13,7 +13,8 @@ server_scripts {
 
 client_scripts {
 	'@es_extended/locale.lua',
-	'client/main.lua'
+	'client/main.lua',
+	'config.lua'
 }
 
 ui_page 'html/index.html'
