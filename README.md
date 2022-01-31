@@ -6,4 +6,4 @@ ESX IDENTITY VERSION 2
 + (Vous avez simplement à vérifier les dossiers)
 ![image](https://github.com/HydraDevFR/esx_identityv2/blob/1a7154f88c1dc862dfaf23096669b12968b2b085/html/img/logo.png)
 
-![image](https://i.goopics.net/3e73o0.png) s
+![image](https://i.goopics.net/3e73o0.png)
